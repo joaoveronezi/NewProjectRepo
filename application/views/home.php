@@ -158,8 +158,8 @@
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
-							<h2>Our Team</h2>
-							<p>A 	 agency based on Candy Land, ready to boost your business with some beautifull templates. Lattes Agency is one of the best in town see more you will be amazed.</p>
+							<h2>Nossa Equipe</h2>
+							<p>Nossa agência é especializada em fazer pessoas mais bem sucedidas.</p>
 						</div>
 					</div>
 				</div>
@@ -171,10 +171,10 @@
 								<img src="<?php echo base_url(); ?>public/images/demo/author-2.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
-								<h3>TOM BEKERS</h3>
-								<div class="team-location">Sydney, Australia</div>
-								<div class="team-position">– CEO & Web Design –</div>
-								<p>Mida sit una namet, cons uectetur adipiscing adon elit. Aliquam vitae barasa droma.</p>
+								<h3>João Veronezi</h3>
+								<div class="team-location">Belo Horizonte, Brasil</div>
+								<div class="team-position">– CEO & Master Coach–</div>
+								<p>"Sou formado em neurolinguistica e possuo varios cursos de oratória"</p>
 							</div>
 						</div>
 					</div>
@@ -186,10 +186,10 @@
 								<img src="<?php echo base_url(); ?>public/images/demo/author-6.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
-								<h3>LINA GOSATA</h3>
-								<div class="team-location">Los Angeles, California</div>
-								<div class="team-position">– Photography –</div>
-								<p>Worsa dona namet, cons uectetur dipiscing adon elit. Aliquam vitae fringilla unda mir.</p>
+								<h3>Ricardo Amado</h3>
+								<div class="team-location">São Paulo, Brasil</div>
+								<div class="team-position">– Writer –</div>
+								<p>"Me formei numa faculdade profissional"</p>
 							</div>
 						</div>
 					</div>
@@ -201,10 +201,10 @@
 								<img src="<?php echo base_url(); ?>public/images/demo/author-3.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
-								<h3>Larry Parker</h3>
-								<div class="team-location">Barcelona, Spain</div>
-								<div class="team-position">– Development –</div>
-								<p>Aradan bes namet, cons uectetur moiscing adon elit. Aliquam vitae fringilla unda augue.</p>
+								<h3>Larissa Parker</h3>
+								<div class="team-location">Rio de Janeiro, Brasil</div>
+								<div class="team-position">– People Manager Master –</div>
+								<p>"Possuo varios cursos relacionados à habilidades voltadas ao conhecimento interpessoal"</p>
 							</div>
 						</div>
 					</div>
@@ -216,10 +216,10 @@
 								<img src="<?php echo base_url(); ?>public/images/demo/author-4.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
-								<h3>John BEKERS</h3>
-								<div class="team-location">Miami, Floria</div>
-								<div class="team-position">– Marketing –</div>
-								<p>Dolor sit don namet, cons uectetur beriscing adon elit. Aliquam vitae fringilla unda.</p>
+								<h3>Luiz Veronezi</h3>
+								<div class="team-location">Santa Catarina, Brasil</div>
+								<div class="team-position">– Marketing Master & COCEO –</div>
+								<p>"Formado numa faculdade voltada para isso"</p>
 							</div>
 						</div>
 					</div>
@@ -232,8 +232,8 @@
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
-							<h2>Contact Us</h2>
-							<p>If you have some Questions or need Help! Please Contact Us!<br>We make Cool and Clean Design for your Business</p>
+							<h2>Onde nos Achar</h2>
+							<p>Se você tem dúvidas e/ou quer ser um mestre da sua vida, nos contate<br>Nós fazemos de você o melhor!</p>
 						</div>
 					</div>
 				</div>
