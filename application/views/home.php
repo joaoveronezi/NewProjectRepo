@@ -58,7 +58,7 @@
 				<div class="col-lg-12 text-center">
 					<div class="section-title">
 						<h2>Portfolio</h2>
-						<p>Our portfolio is the best way to show our work, you can see here a big range of our work. Check them all and you will find what you are looking for.</p>
+						<p>Nosso Portifólio tem como objetivo te ensinar tudo.</p>
 					</div>
 				</div>
 			</div>
